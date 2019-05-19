@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[ru]=/home/mistrio/Рабочий стол/project/window/wN.png
+Name[ru]=Easy Debut
+Exec="/home/mistrio/Desktop/project/window/Easy_Debut"
+Name=Easy Debut
+Icon=/home/mistrio/Рабочий стол/project/window/wN.png
